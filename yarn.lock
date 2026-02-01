@@ -8090,6 +8090,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"croner@npm:^10.0.0":
+  version: 10.0.0
+  resolution: "croner@npm:10.0.0"
+  checksum: 10c0/83c23e21f5695e249cc03ad76bdc5f03f847e411de05652d23fd1c390ada4f04c8d2ca6cde05c98af30424aab1fa692ae3b457889b43a834ac3c99574bbbff83
+  languageName: node
+  linkType: hard
+
 "croner@npm:^9.1.0":
   version: 9.1.0
   resolution: "croner@npm:9.1.0"
@@ -17614,7 +17621,7 @@ __metadata:
     chardet: "npm:^2.1.1"
     chart.js: "npm:^4.5.1"
     chokidar: "npm:^5.0.0"
-    croner: "npm:^9.1.0"
+    croner: "npm:^10.0.0"
     deep-equal: "npm:^2.2.3"
     dexie: "npm:^4.3.0"
     discord.js: "npm:^14.25.1"
